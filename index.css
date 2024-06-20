@@ -1,0 +1,16 @@
+h1{
+    color: rgb(62, 151, 151);
+    background-color: rgb(130, 112, 91);
+}
+body{
+    color: rgb(207, 168, 116);
+    background-color: rgb(125, 171, 171);
+}
+pre{
+    color: black;
+    background-color: aquamarine;
+}
+table{
+    color: aquamarine;
+    background-color: antiquewhite;
+}
